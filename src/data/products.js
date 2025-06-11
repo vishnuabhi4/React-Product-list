@@ -1,4 +1,4 @@
-import smartPhoneCase from '../assets/smartphonecase.png';
+import smartPhoneCase from '../assets/SmartPhoneCase.png';
 import coffeMug from '../assets/CoffeMug.png';
 import wirelessHeadphones from '../assets/WirelessHeadphones.png';
 import laptopStand from '../assets/LaptopStand.png';
